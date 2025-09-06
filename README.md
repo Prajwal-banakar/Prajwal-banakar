@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Prajwal banakar🙃
+I'm Prajwal banakar
 
 Skilled in java, spring boot and strategic project management, 
 Results-oriented Engineering with a proven skills of optimizing project outcomes,
