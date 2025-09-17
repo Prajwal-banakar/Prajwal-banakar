@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Prajwal banakar
 
-Skilled in java, spring boot and strategic project management, 
+Skilled in java, spring, springboot and strategic project management, 
 Results-oriented Engineering with a proven skills of optimizing project outcomes,
 Seeking a challenging executive role to leverage technical expertise and drive engineering excellence,
 Deep understanding of software development principles and life cycles,
