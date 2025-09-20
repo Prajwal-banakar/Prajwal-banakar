@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I'm Prajwal banakar 😎</h1>
+<h1 align="center">hey there👋<br>I'm Prajwal banakar 😎</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm  undergraduate student in Information science and engineering from vishveshwaraiya technological University. <br>Results-oriented Engineering with a proven skills of optimizing project outcomes. Skilled in java, spring boot and strategic project management. Seeking a challenging executive role to leverage technical expertise and drive engineering excellence. Deep understanding of software development principles and life cycles, able to work independently and as part of a team.Enriching journey with full of surprises and great learnings.</p>
+<p align="left">I'm  undergraduate student in Information science and engineering from vishveshwaraiya technological University.Results-oriented Engineering with a proven skills of optimizing project outcomes. Skilled in java,spring boot and strategic project management.Seeking a challenging executive role to leverage technical expertise and drive engineering excellence.Deep understanding of software development principles and life cycles, able to work independently and as part of a team.Enriching journey with full of surprises and great learnings.</p>
 
 ###
 
@@ -29,16 +29,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
