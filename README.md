@@ -12,7 +12,9 @@
 
 ###
 
-<h1 align="center">hey there👋<br>I'm Prajwal banakar 😎</h1>
+<h1 align="center">Hey there👋</h1>
+<h1 align="center">I'm Prajwal banakar👋</h1>
+
 
 ###
 
