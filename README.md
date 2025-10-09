@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Prajwal banakar currently pursuing BE in Information science and engineering from vishveshwaraiya technological University. Skilled in java, spring, spring boot, database and strategic project management. Results-oriented Engineering with a proven skills of optimizing project outcomes. Seeking a challenging executive role to leverage technical expertise and drive engineering excellence. Deep understanding of software development principles and life cycles, able to work independently and as part of a team. Enriching journey with full of surprises and great learnings.</p>
+<p align="left">I'm Prajwal banakar currently pursuing BE in Information science and engineering. Skilled in java, spring, spring boot, database and strategic project management. Results-oriented Engineering with a proven skills of optimizing project outcomes. Seeking a challenging executive role to leverage technical expertise and drive engineering excellence. Deep understanding of software development principles and life cycles, able to work independently and as part of a team. Enriching journey with full of surprises and great learnings.</p>
 
 ###
 
