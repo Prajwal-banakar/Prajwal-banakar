@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Prajwal banakar currently pursuing BE in Information science and engineering. Skilled in java, spring, spring boot, database and strategic project management. Results-oriented Engineering with a proven skills of optimizing project outcomes. Seeking a challenging executive role to leverage technical expertise and drive engineering excellence. Deep understanding of software development principles and life cycles, able to work independently and as part of a team. Enriching journey with full of surprises and great learnings.</p>
+<p align="left">Results-oriented Java Developer with hands-on experience in Spring Boot, Spring MVC, Hibernate, JDBC, REST APIs, and SQL/NoSQL databases. Strong understanding of OOP,data structures, algorithms, and backend architecture. Skilled in building scalable and maintainable applications with clean code practices. Adept at debugging, problem-solving, and delivering efficient backend solutions. Quick learner with a strong collaborative mindset and passion for high quality engineering.</p>
 
 ###
 
