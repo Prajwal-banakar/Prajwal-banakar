@@ -14,7 +14,8 @@
 
 ###
 
-<h1 align="center">Hey I'm Prajwal banakar</h1>
+<h1 align="center">Hello👋 I'm Prajwal</h1>
+
 
 
 ###
