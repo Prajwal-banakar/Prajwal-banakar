@@ -17,7 +17,7 @@
 <h1 align="center">Hello👋 I'm Prajwal</h1>
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="https://drive.google.com/file/d/1V3aNLXIdyKL9nbL-uQP7UWq1MDBIOb0N/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
