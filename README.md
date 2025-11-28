@@ -16,9 +16,11 @@
 
 <h1 align="center">Hello👋 I'm Prajwal</h1>
 
-
-
-###
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
 
 
 
@@ -89,4 +91,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 
