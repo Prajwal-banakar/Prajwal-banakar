@@ -15,11 +15,25 @@
   <a href="https://twitter.com/Pbanakar18">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:pbanakar18@gmail.com">
+  <a href="mailto:prajwwal.banakara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
 </div>
+<p align="center">
+ <a href="https://www.geeksforgeeks.org/profile/prajwalbanakar18">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Prajwal-banakar">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1V3aNLXIdyKL9nbL-uQP7UWq1MDBIOb0N/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
 
 
 
@@ -37,11 +51,7 @@ Hands-on experience in Spring Boot, Spring MVC, Hibernate, JDBC, REST APIs, and 
 - 💬 Ask me about **Java, Spring Boot, SQL, and System Design**.
 
 <br />
-<p align="center">
-  <a href="https://drive.google.com/file/d/1V3aNLXIdyKL9nbL-uQP7UWq1MDBIOb0N/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
-  </a>
-</p>
+
 
 ### 🛠️ Tech Stack
 
