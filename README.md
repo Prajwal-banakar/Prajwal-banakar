@@ -1,110 +1,132 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+  <h1> Hi there, I'm Prajwal Banakar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-  <a href="https://www.linkedin.com/in/prajwal-banakar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
+  ### 👨‍💻 Aspiring Java Developer | Spring Boot Enthusiast
+  
+  <p>
+    Based in <b>Bangalore, India</b> 🇮🇳
+  </p>
+
+  <a href="https://linkedin.com/in/prajwal-banakar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://x.com/Pbanakar18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
+  <a href="https://twitter.com/Pbanakar18">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
-  <a href="mailto:prajwal.banakara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
+  <a href="mailto:pbanakar18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.hackerrank.com/profile/prajwal_banakara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/prajwalbanakar18" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=008000&logoColor=white&labelColor=&style=flat" height="25" alt="geeksforgeeks logo" />
-</a>
-
+  
 </div>
 
 
 
 
-<h1 align="center">Hello👋 I'm Prajwal</h1>
+<br />
 
+### 🚀 About Me
+
+I am an **Information Science & Engineering** student passionate about building scalable backend systems. My journey is fueled by a love for **Java** and the **Spring ecosystem**. I am a results-oriented engineer seeking challenging roles to leverage my technical expertise in software development and strategic project management.
+Hands-on experience in Spring Boot, Spring MVC, Hibernate, JDBC, REST APIs, and SQL/NoSQL databases. Strong understanding of OOP, data structures, algorithms, and backend architecture. Skilled in building scalable and maintainable applications with clean code practices. Adept at debugging, problem-solving, and delivering efficient backend solutions. Quick learner with a strong collaborative mindset and passion for high quality engineering.
+
+- 🔭 I’m currently working on **Spring Boot REST APIs & Microservices**.
+- 🌱 I’m currently learning **Cloud Native Technologies (AWS, Docker, Kubernetes)**.
+- 👯 I’m looking to collaborate on **Open Source Java Projects**.
+- 💬 Ask me about **Java, Spring Boot, SQL, and System Design**.
+
+<br />
 <p align="center">
   <a href="https://drive.google.com/file/d/1V3aNLXIdyKL9nbL-uQP7UWq1MDBIOb0N/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
 
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-banakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
+  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-banakar&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+</div>
+<div> 
+</div>
 
 
-###
 
-<p align="left">Results-oriented Java Developer with hands-on experience in Spring Boot, Spring MVC, Hibernate, JDBC, REST APIs, and SQL/NoSQL databases. Strong understanding of OOP,data structures, algorithms, and backend architecture. Skilled in building scalable and maintainable applications with clean code practices. Adept at debugging, problem-solving, and delivering efficient backend solutions. Quick learner with a strong collaborative mindset and passion for high quality engineering.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prajwal-banakar&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 
