@@ -119,15 +119,10 @@ I believe open source is the best way to grow as an engineer through **collabora
 ---
 
 ### 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-banakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-banakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-banakar&theme=tokyonight&hide_border=true&background=0d1117" height="180" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-banakar&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
-
 ---
 
 <div align="center">
