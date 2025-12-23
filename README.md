@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
 
-  <h3>🚀 Open Source Java Developer | Spring Boot | Cloud Native</h3>
+  <h3>🚀 Java Developer | Spring Boot | Cloud Native</h3>
 
   <p>
     📍 Bangalore, India 🇮🇳 <br/>
