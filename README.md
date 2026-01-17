@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Wj-ZU402STlLiafh5m9sdqZpb7bX8d4W/view">
+  <a href="https://drive.google.com/file/d/1Hq8EArgOLd870vyY4YJ_e8ZyZn3TzSUr/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -117,14 +117,3 @@ I believe open source is the best way to grow as an engineer through **collabora
 </table>
 
 ---
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-banakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-banakar&theme=tokyonight&hide_border=true&background=0d1117" height="180" />
-</div>
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajwal-banakar&style=flat-square&color=blue"/>
-</div>
