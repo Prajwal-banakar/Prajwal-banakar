@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/prajwalbanakar18">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
@@ -32,6 +31,7 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Hq8EArgOLd870vyY4YJ_e8ZyZn3TzSUr/view?usp=sharing">
@@ -43,22 +43,15 @@
 
 ### 🌍 About Me
 
-🌊 Impact at Apache Fluss (Incubating)
-I am currently focused on building the future of streaming storage for real-time AI & Analytics.
+ Active Contributor at Apache Fluss (Incubating)🌊
 
-🔧 Core Infrastructure: Developed a reflection-based documentation generator (fluss-docgen) that keeps the project's website in sync with the source code (PR #2474).
+I am a Results-oriented Java Developer specializing in high-performance distributed systems. Currently, I am an active contributor to Apache Fluss (Incubating), where I have:
 
-🏗️ Architecture: Refactored the SchemaUpdate logic to improve the reliability of the Fluss Coordinator (PR #2416).
+- Architected an automated documentation framework (fluss-docgen) to eliminate configuration drift.
+- Refactored core Coordinator components (SchemaUpdate) to improve maintainability and reliability.
+- Engineered exhaustive test suites for cluster rebalancing, ensuring system stability for large-scale deployments.
 
-🧪 Reliability: Enhanced cluster rebalancing stability by implementing 1,400+ unit and integration test cases (PR #2337).
-
-📚 User Growth: Authored tutorials for Real-Time User Profiling and documented multi-language APIs (Python/Rust).
-
----
-
-### 🤝 Open Source Focus
-
-I believe open source is about meritocracy and collaboration. Whether it's discussing distributed systems or fixing a small bug, I'm always eager to learn and contribute.
+My expertise includes Java, Spring Boot, Distributed Systems, and Database Internals. I am passionate about the "Apache Way" building high-quality, community-driven software through collaboration and clean code practices.
 
 ---
 
@@ -114,3 +107,6 @@ I believe open source is about meritocracy and collaboration. Whether it's discu
 </table>
 
 ---
+### 🤝 Let's connect
+
+I believe open source is about meritocracy and collaboration. Whether it's discussing distributed systems or fixing a small bug, I'm always eager to learn and contribute.
