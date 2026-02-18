@@ -43,25 +43,22 @@
 
 ### 🌍 About Me
 
-I’m an **Information Science & Engineering student** with a strong interest in **open source development**, especially in the **Java & Spring ecosystem**.
+🌊 Impact at Apache Fluss (Incubating)
+I am currently focused on building the future of streaming storage for real-time AI & Analytics.
 
-I enjoy:
-- Designing **RESTful APIs**
-- Writing **clean, maintainable backend code**
-- Fixing bugs, improving documentation, and reviewing PRs
-- Learning how large-scale open source projects are structured and maintained
+🔧 Core Infrastructure: Developed a reflection-based documentation generator (fluss-docgen) that keeps the project's website in sync with the source code (PR #2474).
 
-I believe open source is the best way to grow as an engineer through **collaboration, feedback, and real-world codebases**.
+🏗️ Architecture: Refactored the SchemaUpdate logic to improve the reliability of the Fluss Coordinator (PR #2416).
+
+🧪 Reliability: Enhanced cluster rebalancing stability by implementing 1,400+ unit and integration test cases (PR #2337).
+
+📚 User Growth: Authored tutorials for Real-Time User Profiling and documented multi-language APIs (Python/Rust).
 
 ---
 
 ### 🤝 Open Source Focus
 
-- 🔧 Actively working on **Spring Boot & Java-based projects**
-- 🐛 Interested in **bug fixes, enhancements, and documentation**
-- 📦 Exploring **microservices, Docker, and Kubernetes**
-- 🌱 Learning open-source workflows (issues, PRs, code reviews, CI/CD)
-- 🎯 Open to contributing to **beginner-friendly and mid-scale OSS projects**
+I believe open source is about meritocracy and collaboration. Whether it's discussing distributed systems or fixing a small bug, I'm always eager to learn and contribute.
 
 ---
 
