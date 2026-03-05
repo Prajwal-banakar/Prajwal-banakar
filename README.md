@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pbanakar18)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwal.banakara@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prajwal-banakar)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Hq8EArgOLd870vyY4YJ_e8ZyZn3TzSUr/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PXuu3MLL3MpVwYId6tIfahtQaUnHvUyV/view?usp=sharing)
 
 📍 Bangalore, India 🇮🇳 &nbsp; &nbsp; 🕐 UTC +05:30
 
@@ -20,9 +20,13 @@
 
 ### 🌍 About Me
 
-I'm a Java developer focused on **distributed systems and streaming storage**, currently contributing to **Apache Fluss (Incubating)** a next-generation streaming storage layer built for real-time analytics at scale.
+I’m a **backend developer and open-source contributor** with a strong interest in **distributed systems, streaming data platforms, and real-time analytics infrastructure**.
 
-> *"The best way to understand a distributed system is to break it, fix it, and ship the fix."*
+I actively contribute to **Apache Fluss (Incubating)** a next-generation streaming storage system designed for large-scale real-time analytics.
+
+As a final-year **Information Science & Engineering (B.E.) student**, I enjoy exploring how large-scale data systems are designed, optimized, and operated in production environments.
+
+> *“The best way to understand distributed systems is to build them, break them, and fix them.”*
 
 ---
 
@@ -84,5 +88,5 @@ I believe open source is about meritocracy and collaboration. Whether it's discu
 
 ---
 <div align="center">
-  <sub>⭐ From Bangalore, contributing to the infrastructure the world runs on</sub>
+  <sub>⭐ From Bangalore, contributing to the infrastructure the world runs on ⭐</sub>
 </div>
