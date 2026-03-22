@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-banakar)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pbanakar18)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwal.banakara@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prajwal-banakar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/prajwalbanakar18)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PXuu3MLL3MpVwYId6tIfahtQaUnHvUyV/view?usp=sharing)
 
 📍 Bangalore, India 🇮🇳 &nbsp; &nbsp; 🕐 UTC +05:30
@@ -20,7 +20,7 @@
 
 ### 🌍 About Me
 
-I’m a **backend developer and open-source contributor** with a strong interest in **distributed systems, streaming data platforms, and real-time analytics infrastructure**.
+I’m a **backend developer** and Credited contributor in the official **Apache Fluss v0.9.0-incubating release**, with a strong interest in **distributed systems, streaming data platforms, and real-time analytics infrastructure**.
 
 I actively contribute to **Apache Fluss (Incubating)** a next-generation streaming storage system designed for large-scale real-time analytics.
 
@@ -49,11 +49,8 @@ As a final-year **Information Science & Engineering (B.E.) student**, I enjoy ex
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="48"/><br/>Maven
     </td>
   </tr>
   <tr>
@@ -70,13 +67,10 @@ As a final-year **Information Science & Engineering (B.E.) student**, I enjoy ex
       <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>Azure
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=idea" width="48"/><br/>IntelliJ
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gradle" width="48"/><br/>Gradle
     </td>
   </tr>
 </table>
