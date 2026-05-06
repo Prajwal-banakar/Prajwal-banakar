@@ -20,12 +20,13 @@
 
 ### 🌍 About Me
 
-I’m a **backend developer** and Credited contributor in the official **Apache Fluss v0.9.0-incubating release** and **Fluss clients v0.1.0 release** 
+- Google Summer of Code 2026 Contributor at the Apache Software Foundation, working on Native RoaringBitmap integration for Apache Fluss.
 
-I actively contribute to **Apache Fluss (Incubating)** a next-generation streaming storage system designed for large-scale real-time analytics
+- Credited Contributor in the official Apache Fluss v0.9.0-incubating release and Fluss clients v0.1.0 release.
 
-As a final-year **Information Science & Engineering (B.E.) student** with a strong interest in **distributed systems, streaming data platforms, and real-time analytics infrastructure**,  I enjoy exploring how large-scale data systems are designed, optimized, and operated in production environments, 
+- Active contributor to Apache Fluss (Incubating), a next-generation streaming storage system designed for large-scale real-time analytics.
 
+- Final-year Information Science & Engineering (B.E.) student with a strong interest in distributed systems, streaming data platforms, and real-time analytics infrastructure.
 
 ---
 
