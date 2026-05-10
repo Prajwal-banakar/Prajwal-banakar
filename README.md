@@ -9,8 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-banakar)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pbanakar18)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwal.banakara@gmail.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/prajwalbanakar18)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PXuu3MLL3MpVwYId6tIfahtQaUnHvUyV/view?usp=sharing)
+[![Blog](https://img.shields.io/badge/Blog-FFB800?style=flat-square&logo=hugo&logoColor=white)](https://prajwal-banakar.github.io/)
+
 
 📍 Bangalore, India 🇮🇳 &nbsp; &nbsp; 🕐 UTC +05:30
 
