@@ -26,8 +26,6 @@
 
 - Active contributor to Apache Fluss (Incubating), a next-generation streaming storage system designed for large-scale real-time analytics.
 
-- Final-year Information Science & Engineering (B.E.) student with a strong interest in distributed systems, streaming data platforms, and real-time analytics infrastructure.
-
 ---
 
 ### 🛠️ Tech Stack
