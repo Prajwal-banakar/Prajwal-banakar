@@ -12,21 +12,23 @@
 [![Blog](https://img.shields.io/badge/Blog-FFB800?style=flat-square&logo=hugo&logoColor=white)](https://prajwal-banakar.github.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.prajwal-banakar.tech/)
 
-
-📍 Bangalore, India 🇮🇳 &nbsp; &nbsp; 🕐 UTC +05:30
-
 </div>
 
 ---
 
 ### 🌍 About Me
 
-- Google Summer of Code 2026 Contributor at the Apache Software Foundation, working on Native RoaringBitmap integration for Apache Fluss.
+- 👨‍💻 **Who I'm:** Software Engineer focused on backend engineering, distributed systems, and open-source development.
 
-- Credited Contributor in the official Apache Fluss v0.9.0-incubating release and Fluss clients v0.1.0 release.
+- 🚀 **Working on:** Native RoaringBitmap Integration for [Apache Fluss](https://github.com/apache/fluss) as a **Google Summer of Code 2026** Contributor.
 
-- Active contributor to Apache Fluss (Incubating), a next-generation streaming storage system designed for large-scale real-time analytics.
+- 🏛️ **Open Source:** Active contributor to [Apache Fluss](https://github.com/apache/fluss), a streaming storage system for real-time analytics.
 
+- 🏆 **Credited Contributor:** Officially credited in the [Apache Fluss v0.9.0 Release](https://fluss.apache.org/blog/releases/0.9/) and the [Fluss Clients v0.1.0 Release](https://fluss.apache.org/blog/fluss_rust_client_release/).
+
+- 💡 **Interests:** Distributed systems, Java ecosystem, Stream processing and storage engines.
+
+- 🌱 **Currently Learning:** Backend Systems, Database internals, query execution, and distributed storage architecture.
 ---
 
 ### 🛠️ Tech Stack
@@ -40,46 +42,26 @@
       <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>Spring
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>SQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=gradle" width="48"/><br/>Gradle
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="48"/><br/>Maven
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=maven" width="48"/><br/>Maven
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br/>Jenkins
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=idea" width="48"/><br/>IntelliJ
-    </td>
-      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gradle" width="48"/><br/>Gradle
+      <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux
     </td>
   </tr>
 </table>
 
----
-### 🤝 Let's connect
-
-I believe open source is about meritocracy and collaboration. Whether it's discussing distributed systems or fixing a small bug, I'm always eager to learn and contribute.
-
----
 <div align="center">
   <sub>⭐ From Bangalore, contributing to the infrastructure the world runs on ⭐</sub>
 </div>
