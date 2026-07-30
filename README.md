@@ -9,8 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-banakar)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pbanakar18)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwal.banakara@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FFB800?style=flat-square&logo=hugo&logoColor=white)](https://prajwal-banakar.github.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.prajwal-banakar.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.prajwal-banakar.me)
 
 </div>
 
